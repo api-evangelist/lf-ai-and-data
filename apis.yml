@@ -1,0 +1,44 @@
+aid: lf-ai-and-data
+name: LF AI and Data
+description: >-
+  LF AI and Data Foundation advances open source artificial intelligence, machine learning, and data projects under the Linux Foundation. It fosters collaboration to create scalable, trustworthy, and interoperable AI and data solutions through projects like Acumos AI, Angel ML, and Horovod.
+type: Index
+position: Consumer
+access: 3rd-Party
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Artificial Intelligence
+  - Machine Learning
+  - Data
+  - Linux Foundation
+created: '2026-03-16'
+modified: '2026-03-16'
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/lf-ai-and-data/refs/heads/main/apis.yml
+specificationVersion: '0.19'
+apis:
+  - aid: lf-ai-and-data:lf-ai-and-data-api
+    name: LF AI and Data API
+    description: >-
+      Programmatic access to LF AI and Data project resources, AI model registries, and data tools.
+    humanURL: https://lfaidata.foundation/projects/
+    tags:
+  - Artificial Intelligence
+  - Machine Learning
+  - Data
+  - Linux Foundation
+    properties:
+      - type: Documentation
+        url: https://lfaidata.foundation/projects/
+common:
+  - type: Documentation
+    name: LF AI and Data Documentation
+    description: Official documentation for LF AI and Data.
+    url: https://lfaidata.foundation/projects/
+  - type: GitHubOrg
+    name: LF AI and Data GitHub
+    description: Source code and repositories for LF AI and Data.
+    url: https://github.com/lfai
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com
