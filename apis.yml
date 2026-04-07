@@ -23,10 +23,10 @@ apis:
       Programmatic access to LF AI and Data project resources, AI model registries, and data tools.
     humanURL: https://lfaidata.foundation/projects/
     tags:
-  - Artificial Intelligence
-  - Machine Learning
-  - Data
-  - Linux Foundation
+      - Artificial Intelligence
+      - Machine Learning
+      - Data
+      - Linux Foundation
     properties:
       - type: Documentation
         url: https://lfaidata.foundation/projects/
