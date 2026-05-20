@@ -192,6 +192,8 @@ apis:
       - type: GitHubRepo
         url: https://github.com/feast-dev/feast
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/lfai
   - type: Documentation
     name: LF AI and Data Documentation
     description: Official documentation for LF AI and Data.
