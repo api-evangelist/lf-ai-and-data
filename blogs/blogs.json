@@ -1,0 +1,21 @@
+{
+  "repo": "lf-ai-and-data",
+  "feeds": [
+    {
+      "source": "https://lfaidata.foundation/feed/",
+      "feed_url": "https://lfaidata.foundation/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://lfaidata.foundation/projects/",
+      "feed_url": "https://lfaidata.foundation/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 10
+}
