@@ -25,6 +25,14 @@ access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/lf-ai-and-data.png
 tags:
   - Artificial Intelligence
+  - Machine-Learning
+  - Data
+  - Linux Foundation
+  - Open-Source
+  - MLOps
+  - Vector Database
+tags_raw:
+  - Artificial Intelligence
   - Machine Learning
   - Data
   - Linux Foundation
@@ -44,6 +52,11 @@ apis:
       deep learning models, enabling interoperability between AI frameworks.
     humanURL: https://onnx.ai/
     tags:
+      - Artificial Intelligence
+      - Machine-Learning
+      - Model Format
+      - Interoperability
+    tags_raw:
       - AI
       - Machine Learning
       - Model Format
@@ -60,6 +73,10 @@ apis:
       search, supporting embedding-based AI applications.
     humanURL: https://milvus.io/
     tags:
+      - Vector Database
+      - Artificial Intelligence
+      - Search
+    tags_raw:
       - Vector Database
       - AI
       - Search
@@ -90,6 +107,10 @@ apis:
       for data and machine learning processes.
     humanURL: https://flyte.org/
     tags:
+      - Workflow Orchestration
+      - MLOps
+      - Cloud-Native
+    tags_raw:
       - Workflow Orchestration
       - MLOps
       - Cloud Native
@@ -166,6 +187,10 @@ apis:
     humanURL: https://adversarial-robustness-toolbox.readthedocs.io/
     tags:
       - AI Security
+      - Machine-Learning
+      - Adversarial
+    tags_raw:
+      - AI Security
       - Machine Learning
       - Adversarial
     properties:
@@ -195,6 +220,10 @@ apis:
       consistent feature serving across training and inference.
     humanURL: https://feast.dev/
     tags:
+      - Feature Store
+      - Machine-Learning
+      - MLOps
+    tags_raw:
       - Feature Store
       - Machine Learning
       - MLOps
