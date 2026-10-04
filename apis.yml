@@ -37,12 +37,11 @@ access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/lf-ai-and-data.png
 tags:
   - Artificial Intelligence
-  - Machine-Learning
+  - Machine Learning
   - Data
   - Linux Foundation
-  - Open-Source
+  - Open Source
   - MLOps
-  - Vector Database
 tags_raw:
   - Artificial Intelligence
   - Machine Learning
@@ -50,7 +49,8 @@ tags_raw:
   - Linux Foundation
   - Open Source
   - MLOps
-  - Vector Database
+  - Machine-Learning
+  - Open-Source
 created: '2026-03-16'
 modified: '2026-04-28'
 url: >-
@@ -65,7 +65,7 @@ apis:
     humanURL: https://onnx.ai/
     tags:
       - Artificial Intelligence
-      - Machine-Learning
+      - Machine Learning
       - Model Format
       - Interoperability
     tags_raw:
@@ -73,6 +73,7 @@ apis:
       - Machine Learning
       - Model Format
       - Interoperability
+      - Machine-Learning
     properties:
       - type: Documentation
         url: https://onnx.ai/
@@ -199,12 +200,13 @@ apis:
     humanURL: https://adversarial-robustness-toolbox.readthedocs.io/
     tags:
       - AI Security
-      - Machine-Learning
+      - Machine Learning
       - Adversarial
     tags_raw:
       - AI Security
       - Machine Learning
       - Adversarial
+      - Machine-Learning
     properties:
       - type: Documentation
         url: https://adversarial-robustness-toolbox.readthedocs.io/
@@ -233,12 +235,13 @@ apis:
     humanURL: https://feast.dev/
     tags:
       - Feature Store
-      - Machine-Learning
+      - Machine Learning
       - MLOps
     tags_raw:
       - Feature Store
       - Machine Learning
       - MLOps
+      - Machine-Learning
     properties:
       - type: Documentation
         url: https://docs.feast.dev/
@@ -283,3 +286,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: info@apievangelist.com
+x-tags-removed:
+- Vector Database
