@@ -171,6 +171,10 @@ apis:
     tags:
       - Metadata
       - Data Ecosystem
+      - Data Lineage
+    tags_raw:
+      - Metadata
+      - Data Ecosystem
       - Lineage
     properties:
       - type: Documentation
