@@ -1,4 +1,4 @@
-# LF AI and Data (lf-ai-and-data)
+# LF AI and Data
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,128 +66,111 @@
 
 The LF AI & Data Foundation is a Linux Foundation umbrella that advances open source artificial intelligence, machine learning, and data projects. It hosts 80+ projects spanning graduated, incubation, and sandbox stages, including ONNX, Milvus, Horovod, Flyte, Kedro, Pyro, Egeria, OpenLineage, Marquez, and the Adversarial Robustness Toolbox, fostering scalable, trustworthy, and interoperable AI and data solutions.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/lf-ai-and-data/refs/heads/main/apis.yml)
+**Areas:** Artificial Intelligence · Machine Learning · Data · Linux Foundation · Open Source · MLOps
 
-## Scope
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
+## LF AI and Data on APIs.io
 
-## Tags:
- - Artificial Intelligence, Machine Learning, Data, Linux Foundation, Open Source, MLOps, Vector Database
+Everything profiled for LF AI and Data is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/lf-ai-and-data/](https://apis.io/providers/lf-ai-and-data/)** — or go straight to one of the APIs or properties below.
 
-## Timestamps
-- **Created:** 2026-03-16
-- **Modified:** 2026-04-28
+### APIs (11)
 
-## APIs
+- [ONNX](https://apis.io/apis/lf-ai-and-data/onnx/) — Open Neural Network Exchange (ONNX) is an open format for representing deep learning models, enabling interoperability between AI frameworks.
+- [Milvus](https://apis.io/apis/lf-ai-and-data/milvus/) — Milvus is an open source vector database built for scalable similarity search, supporting embedding-based AI applications.
+- [Horovod](https://apis.io/apis/lf-ai-and-data/horovod/) — Horovod is a distributed deep learning training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
+- [Flyte](https://apis.io/apis/lf-ai-and-data/flyte/) — Flyte is a production-grade, cloud-native workflow orchestration platform for data and machine learning processes.
+- [Kedro](https://apis.io/apis/lf-ai-and-data/kedro/) — Kedro is a Python framework for creating reproducible, maintainable, and modular data science code.
+- [OpenLineage](https://apis.io/apis/lf-ai-and-data/openlineage/) — OpenLineage is an open standard and API for collecting lineage metadata across data pipelines.
+- [Marquez](https://apis.io/apis/lf-ai-and-data/marquez/) — Marquez is an open source metadata service for the collection, aggregation, and visualization of a data ecosystem's metadata.
+- [Egeria](https://apis.io/apis/lf-ai-and-data/egeria/) — Egeria is the world's first open source metadata standard for enterprise data management, enabling unified governance and discovery.
+- [Adversarial Robustness Toolbox](https://apis.io/apis/lf-ai-and-data/adversarial-robustness-toolbox/) — ART (Adversarial Robustness Toolbox) provides tools for evaluating and defending machine learning models against adversarial threats.
+- [Delta Lake](https://apis.io/apis/lf-ai-and-data/delta-lake/) — Delta Lake is an open source storage layer that brings ACID transactions and reliability to data lakes.
+- [Feast](https://apis.io/apis/lf-ai-and-data/feast/) — Feast is an open source feature store for machine learning, providing consistent feature serving across training and inference.
 
-### ONNX
-Open Neural Network Exchange (ONNX) is an open format for representing deep learning models, enabling interoperability between AI frameworks.
+### Published properties
 
-**Human URL:** [https://onnx.ai/](https://onnx.ai/)
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-#### Properties
-- [Documentation](https://onnx.ai/)
-- [GitHub Repository](https://github.com/onnx/onnx)
+#### Security (1)
 
-### Milvus
-Milvus is an open source vector database built for scalable similarity search, supporting embedding-based AI applications.
+Authentication, trust centre, and vulnerability disclosure.
 
-**Human URL:** [https://milvus.io/](https://milvus.io/)
+- [Lf Ai And Data Domain Security](https://apis.io/security/lf-ai-and-data/lf-ai-and-data-domain-security/)
 
-#### Properties
-- [Documentation](https://milvus.io/docs)
-- [GitHub Repository](https://github.com/milvus-io/milvus)
+#### Plans and pricing (1)
 
-### Horovod
-Horovod is a distributed deep learning training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
+Published plans, tiers and prices.
 
-**Human URL:** [https://horovod.ai/](https://horovod.ai/)
+- [Lf Ai And Data Plans Pricing](https://apis.io/plans/lf-ai-and-data/lf-ai-and-data-plans-pricing/)
 
-#### Properties
-- [Documentation](https://horovod.readthedocs.io/)
-- [GitHub Repository](https://github.com/horovod/horovod)
+#### Rate limits (1)
 
-### Flyte
-Flyte is a production-grade, cloud-native workflow orchestration platform for data and machine learning processes.
+Published request limits.
 
-**Human URL:** [https://flyte.org/](https://flyte.org/)
+- [Lf Ai And Data Rate Limits](https://apis.io/rate-limits/lf-ai-and-data/lf-ai-and-data-rate-limits/)
 
-#### Properties
-- [Documentation](https://docs.flyte.org/)
-- [GitHub Repository](https://github.com/flyteorg/flyte)
+#### FinOps (1)
 
-### Kedro
-Kedro is a Python framework for creating reproducible, maintainable, and modular data science code.
+What the API costs to run, by operation.
 
-**Human URL:** [https://kedro.org/](https://kedro.org/)
+- [Lf Ai And Data Finops](https://apis.io/finops/lf-ai-and-data/lf-ai-and-data-finops/)
 
-#### Properties
-- [Documentation](https://docs.kedro.org/)
-- [GitHub Repository](https://github.com/kedro-org/kedro)
+## Where to find this API
 
-### OpenLineage
-OpenLineage is an open standard and API for collecting lineage metadata across data pipelines.
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-**Human URL:** [https://openlineage.io/](https://openlineage.io/)
+- [Website](https://lfaidata.foundation/)
+- [Documentation](https://lfaidata.foundation/projects/)
+- [Blog](https://lfaidata.foundation/feed/)
 
-#### Properties
-- [Documentation](https://openlineage.io/docs/)
-- [GitHub Repository](https://github.com/OpenLineage/OpenLineage)
+## API Evangelist rating
 
-### Marquez
-Marquez is an open source metadata service for the collection, aggregation, and visualization of a data ecosystem's metadata.
+**Kin Score 22.4** — emerging · rubric 0.24.0 · scored 2026-10-17
 
-**Human URL:** [https://marquezproject.ai/](https://marquezproject.ai/)
+| Facet | Score |
+|---|---|
+| Discoverability | 62.5 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 39.5 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 7.9 |
 
-#### Properties
-- [Documentation](https://marquezproject.ai/docs/)
-- [GitHub Repository](https://github.com/MarquezProject/marquez)
+**Agent readiness 0.6** — human-only
 
-### Egeria
-Egeria is the world's first open source metadata standard for enterprise data management, enabling unified governance and discovery.
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
 
-**Human URL:** [https://egeria-project.org/](https://egeria-project.org/)
+**Regulatory alignment 5.5** — Horizontal (data, software, accessibility, platform)
 
-#### Properties
-- [Documentation](https://egeria-project.org/)
-- [GitHub Repository](https://github.com/odpi/egeria)
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/lf-ai-and-data/](https://apis.io/providers/lf-ai-and-data/).
 
-### Adversarial Robustness Toolbox
-ART provides tools for evaluating and defending machine learning models against adversarial threats.
+## How this profile is made
 
-**Human URL:** [https://adversarial-robustness-toolbox.readthedocs.io/](https://adversarial-robustness-toolbox.readthedocs.io/)
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-#### Properties
-- [Documentation](https://adversarial-robustness-toolbox.readthedocs.io/)
-- [GitHub Repository](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for LF AI and Data: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-### Delta Lake
-Delta Lake is an open source storage layer that brings ACID transactions and reliability to data lakes.
+## Open an issue
 
-**Human URL:** [https://delta.io/](https://delta.io/)
-
-#### Properties
-- [Documentation](https://docs.delta.io/)
-- [GitHub Repository](https://github.com/delta-io/delta)
-
-### Feast
-Feast is an open source feature store for machine learning, providing consistent feature serving across training and inference.
-
-**Human URL:** [https://feast.dev/](https://feast.dev/)
-
-#### Properties
-- [Documentation](https://docs.feast.dev/)
-- [GitHub Repository](https://github.com/feast-dev/feast)
-
-## Common Properties
-- [LF AI and Data Documentation](https://lfaidata.foundation/projects/)
-- [LF AI and Data GitHub](https://github.com/lfai)
-- [LF AI and Data Website](https://lfaidata.foundation/)
-- [Projects List](https://lfaidata.foundation/projects/)
-
-## Maintainers
-**FN:** Kin Lane
-
-**Email:** info@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/lf-ai-and-data/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
